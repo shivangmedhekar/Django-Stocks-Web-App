@@ -1,1 +1,1 @@
-# Django-Stocks-Web-App
+# Django Stocks Web App
