@@ -4,6 +4,9 @@ import json
 from .models import Stocks
 from .forms import StockForm
 from django.contrib import messages
+
+# Create your IEX account and store the api key in config file with vairable name as api_key
+
 import quotes.config_api 
 
 # Create your views here.
