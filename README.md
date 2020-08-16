@@ -1,4 +1,5 @@
 # Django Stocks Web App
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)]
 
 The Stocks Web App which lets it's users to search for a information of stock by using the ticker of the company. The user's can add the stock to the add stock page to keep a track of it and also delete it. The stock information is fetched from IEX Cloud API.
 
