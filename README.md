@@ -29,7 +29,7 @@ After downloading the repository, you have to go quotes folder
 
     $ cd stocks/quotes
     
-In this folder you have to create a config_api.py file and create a variable **api_key** and assign your key in string format.
+In this folder you have to create a **config_api.py** file and create a variable **api_key** and assign your key in string format.
 
  `config_api.py` file:
  
